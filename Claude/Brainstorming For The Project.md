@@ -77,7 +77,7 @@ Levi: Good enough to beat me 9/10 times would be a good metric. I'm not sure abo
 - **Python AlphaZero** (TF-based): easier to modify and debug, much slower actor throughput.
 - **Roll your own loop** on OpenSpiel's Python/C++ bindings using its MCTS as the search, with PyTorch for the net: most control, most work.
 The vault template mentions "I will build the C++ server and run tests myself" — is a C++ build the assumed path already?
-Levi: I have now removed "I will build the C++ server and run tests myself". This was a mistake from porting the obsidian template from a previous project. Please ignore. Tell me more about alpha_zero_torch, where would the difficulties lie?
+Levi: I have now removed "I will build the C++ server and run tests myself". This was a mistake from porting the obsidian template from a previous project. Please ignore. Tell me more about alpha_zero_torch/AlphaZero, where would the difficulties lie?
 
 3.2. What OS/toolchain are you building on? OpenSpiel + LibTorch on Windows is meaningfully harder than on Linux/WSL. Is WSL2 or a Linux box acceptable?
 Levi: My computer is Windows, is there an easier alternative? What would you recommend?
