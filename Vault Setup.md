@@ -112,3 +112,10 @@ Thumbs.db
 	- git commit -m "Initialize Obsidian vault"
 	- git remote add origin https://github.com/LeviJKuhn/BarricadeAI.git
 	- git push -u origin master
+- GIT Obsidian Plug In
+	- Settings → Community plugins → install Git.
+	- Configure:
+		- Auto commit-and-sync interval (minutes): 5
+		- Auto commit-and-sync after stopping file edits: Enable
+	    - Commit message on auto commit-and-sync: `vault: {{date}}`.
+	    - Pull on startup: Enabled
