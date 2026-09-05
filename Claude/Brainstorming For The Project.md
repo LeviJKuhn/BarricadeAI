@@ -7,7 +7,7 @@ Last Updated: 8/30/2026
 Version: 0.2
 tags:
 ---
-# Overview
+l# Overview
 Go into plan mode and use this document for your planning. Don't ask permission to modify it or work in .claude/plans. This is your plan file. Please leave this Overview alone and build the plan in the following sections. 
 
 There is a website https://barricade.gg where you can play a multiplayer online version of a game similarly known as "Quoridor", with slight rule set variation. It does not have a public API. 
